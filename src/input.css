@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.info {
+    @apply flex justify-between border-b mb-5 pb-3;
+}
