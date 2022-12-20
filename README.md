@@ -1,4 +1,4 @@
-# deepdive-interactivemap
+# deepdive-interactivemap (unfinished)
 
 Wij hebben deze programma gemaakt voor de bedrijf vechtstreekfruit omdat zij een map nodig hadden waar je je zelf kan zien met een gps en dat je markers kan toevoegen met informatie van de bomen in zijn boomgaarde.
 
